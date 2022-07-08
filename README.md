@@ -18,13 +18,13 @@ As requisições aceitas são:
   },
   {
     "id": "9c0274b1-34c3-483d-aba0-4496b40429e9",
-    "title": "Front-end com ReactJS",
-    "owner": "Rubens Guimarães"
+    "name": "Front-end com ReactJS",
+    "email": "pedro augusto"
   },
   {
     "id": "1c91b467-4bb2-4709-84c1-0977d9d4ce8a",
-    "title": "Aplicativo React Native",
-    "owner": "Rubens Guimarães"
+    "name": "Aplicativo React Native",
+    "email": "pedro augusto"
   }
 ]
 ```
@@ -36,8 +36,8 @@ As requisições aceitas são:
 
 ```JSON
 {
-	"title": "Projeto 1",
-	"owner": "Rubens"
+	"name": "Projeto 1",
+	"email": "pedro"
 }
 ```
 
@@ -47,8 +47,8 @@ As requisições aceitas são:
 
 ```JSON
 {
-	"title": "Projeto 1",
-	"owner": "Rubens"
+	"name": "Projeto 1",
+	"email": "pedro "
 }
 ```
 
