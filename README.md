@@ -13,8 +13,8 @@ As requisições aceitas são:
 [
   {
     "id": "13d4bdd2-5180-48e1-a0ae-f15642bafb20",
-    "title": "Back-end com NodeJS",
-    "owner": "Rubens Guimarães"
+    "name": "Back-end com NodeJS",
+    "email": "pedro augusto"
   },
   {
     "id": "9c0274b1-34c3-483d-aba0-4496b40429e9",
